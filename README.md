@@ -10,3 +10,5 @@
 - 🔭 FrontEnd Developer
 
 - 🌱 Tech Stack: C，JavaScript
+
+- 📘 Wanted deep learning: Text editor, Streaming System
