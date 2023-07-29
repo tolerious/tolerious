@@ -7,7 +7,7 @@
 ### 
 
 
-- 🔭 FrontEnd Developer
+- 🔭 FrontEnd Developer & English Lover
 
 - 🌱 Tech Stack: C，JavaScript
 
