@@ -1,7 +1,7 @@
 - ### Hi there 👋
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tolerious&show_icons=true&count_private=true&icon_color=ff7c0ab3&text_color=ff7c0ab3&bg_color=ffffff&hide_title=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolerious&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolerious&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 
 
