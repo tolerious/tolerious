@@ -4,8 +4,8 @@
 ### 
 
 
-- 🔭 FrontEnd Developer & English Lover
+- 🔭 Software Developer & English Lover
 
-- 🌱 Tech Stack: C，JavaScript
+- 🌱 Tech Stack: C, JavaScript, C#
 
-- 📘 Wanted deep learning: Text editor, Streaming System
+- 📘 Working on: Text editor, Antlr
