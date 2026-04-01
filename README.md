@@ -8,4 +8,4 @@
 
 - 🌱 Tech Stack: C, JavaScript, C#
 
-- 📘 Working on: Text editor, Antlr
+- 📘 Working on: Text Editor, Antlr
