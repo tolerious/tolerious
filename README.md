@@ -6,6 +6,6 @@
 
 - 🔭 Software Developer & English Lover
 
-- 🌱 Tech Stack: C, JavaScript, C#
+- 🌱 Interested in JavaScript, C#, Python and Go
 
 - 📘 Working on: Text Editor, Antlr
